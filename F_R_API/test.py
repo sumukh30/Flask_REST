@@ -4,7 +4,7 @@ base= "http://127.0.0.1:5000/"#base url of api
 
 #usage of json is to make the output not look like a object but to rather look like some info
 
-data=[{"Likes":2090,"name":"Sumukh","Views":2120000},
+data=[{"Likes":2090,"name":"Johny","Views":2120000},
         {"Likes":203,"name":"Flasky","Views":1230000},
         {"Likes":2000,"name":"Iron man","Views":200000000}]
 
