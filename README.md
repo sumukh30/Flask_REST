@@ -1,2 +1,2 @@
 # Flask_REST
-Flask REST API 
+Flask REST API Sample
